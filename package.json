@@ -7,6 +7,9 @@
     "build": "webpack -p --target=node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "dist"
+  ],
   "author": "0x0006e",
   "license": "ISC",
   "peerDependencies": {
