@@ -9,9 +9,6 @@
   "author": "0x0006e",
   "license": "ISC",
   "homepage": "https://github.com/0x0006e/babel-preset-react#readme",
-  "peerDependencies": {
-    "@babel/core": "^7.10.2"
-  },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.10.1",
     "@babel/preset-env": "^7.10.2",
