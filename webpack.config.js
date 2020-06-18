@@ -8,7 +8,4 @@ module.exports = {
   plugins: [
     // new BundleAnalyzerPlugin()
   ],
-  externals: {
-    "@babel/core": "@babel/core"
-  }
 };
