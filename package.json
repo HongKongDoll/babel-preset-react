@@ -9,6 +9,7 @@
   },
   "author": "0x0006e",
   "license": "ISC",
+  "homepage": "https://github.com/0x0006e/babel-preset-react#readme",
   "peerDependencies": {
     "@babel/core": "^7.10.2"
   },
