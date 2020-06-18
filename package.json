@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack -p --target=node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "0x0006e",
